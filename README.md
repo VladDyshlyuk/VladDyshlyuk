@@ -13,9 +13,6 @@
 <h3 align="left">Junior Manual QA in Yandex Crowd (March 2024 - Present)</h3>
 
 ###
-
-<br clear="both">
-
 <p align="left">- Testing web and mobile apps;<br>- Creating checklists;<br>- Writing instructions and test cases.</p>
 
 ###
