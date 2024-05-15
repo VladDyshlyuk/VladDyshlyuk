@@ -69,5 +69,5 @@
 <h2 align="left">Soft skills</h2>
 
 ###
-- English Level C1
+- Languages: Russian (Native), English (C1)
 ###
