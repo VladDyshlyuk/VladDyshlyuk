@@ -64,3 +64,10 @@
 </div>
 
 ###
+###
+
+<h2 align="left">Soft skills</h2>
+
+###
+- English Level C1
+###
