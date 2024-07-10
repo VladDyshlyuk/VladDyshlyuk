@@ -21,11 +21,18 @@
 
 ###
 
-<h3 align="left">A co-pilot for a GeekBrains curator/support specialist (Hackathon Digital Breakthrough 2024 | April 26 2024 -  April 28 2024)</h3>
+<h3 align="left">A co-pilot for a GeekBrains curator/support specialist (Hackathon Digital Breakthrough 2024 | April 26 2024 -  April 28 2024) (Result: TOP-4) </h3>
 
 ###
 
 <p align="left">In 42 hours we have developed a support chatbot for GeekBrains based on semantic search and built-in LLM knowledge.<br><br>Our team (AWildSheepChase):<br>-Vladislav Dyshlyuk (Lead, ML Engineer, Backend Engineer)<br>-Arseniy Glushkov (Data Engineer)<br>-Egor Gapeev (Frontend Developer)</p>
+
+###
+<h3 align="left">Tinkoff AI Bot (Hackathon Digital Breakthrough 2024 | May 31 2024 -  June 2 2024) (Result: TOP-5)</h3>
+
+###
+
+<p align="left">Developed a RAG-based chatbot for Tinkoff Bank<br><br>Our team (AWildSheepChase):<br>-Vladislav Dyshlyuk (Lead, ML Engineer, Backend Engineer)<br>-Arseniy Glushkov (Data Engineer)<br>-Egor Gapeev (Frontend Developer)</p>
 
 ###
 
@@ -42,6 +49,7 @@
 ###
 
 <p align="left">Solutions Presentation. Co-pilot - Digital Breakthrough, April 2024 (https://clck.ru/3Ado9Y)</p>
+<p align="left">Solutions Presentation. Tinkoff Bot - Digital Breakthrough, June 2024 (https://clck.ru/3BouM5)</p>
 
 ###
 
