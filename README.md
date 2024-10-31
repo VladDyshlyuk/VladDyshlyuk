@@ -10,10 +10,10 @@
 
 ###
 
-<h3 align="left">Junior Manual QA in Yandex Crowd (March 2024 - Present)</h3>
+<h3 align="left">Junior Manual QA in Yandex Crowd (March 2024 - September 2024)</h3>
 
 ###
-<p align="left">- Testing web and mobile apps;<br>- Creating checklists;<br>- Writing instructions and test cases.</p>
+<h3 align="left">IoT Manual QA in Yandex Crowd (September 2024 - Present)</h3>
 
 ###
 
