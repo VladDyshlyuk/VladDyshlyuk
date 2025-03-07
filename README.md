@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Vlad and I'm a Junior Manual QA Engineer, from Barnaul, Russia passionate about ML Engineering.</p>
+<p align="left">My name is Vlad and I'm a QA Engineer, from Barnaul, Russia.</p>
 
 ###
 
