@@ -30,11 +30,11 @@
 <p align="left">In 42 hours we have developed a support chatbot for GeekBrains based on semantic search and built-in LLM knowledge.<br><br>Our team (AWildSheepChase):<br>-Vladislav Dyshlyuk (Lead, ML Engineer, Backend Engineer)<br>-Arseniy Glushkov (Data Engineer)<br>-Egor Gapeev (Frontend Developer)</p>
 
 ###
-<h3 align="left">Tinkoff AI Bot (Hackathon Digital Breakthrough 2024 | May 31 2024 -  June 2 2024) (Result: TOP-5)</h3>
+<h3 align="left">Bank AI Bot (Hackathon Digital Breakthrough 2024 | May 31 2024 -  June 2 2024) (Result: TOP-5)</h3>
 
 ###
 
-<p align="left">Developed a RAG-based chatbot for Tinkoff Bank<br><br>Our team (AWildSheepChase):<br>-Vladislav Dyshlyuk (Lead, ML Engineer, Backend Engineer)<br>-Arseniy Glushkov (Data Engineer)<br>-Egor Gapeev (Frontend Developer)</p>
+<p align="left">Developed a RAG-based chatbot for Bank<br><br>Our team (AWildSheepChase):<br>-Vladislav Dyshlyuk (Lead, ML Engineer, Backend Engineer)<br>-Arseniy Glushkov (Data Engineer)<br>-Egor Gapeev (Frontend Developer)</p>
 
 ###
 
