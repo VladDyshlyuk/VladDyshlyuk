@@ -51,7 +51,7 @@
 ###
 
 <p align="left">Solutions Presentation. Co-pilot - Digital Breakthrough, April 2024 (https://clck.ru/3Ado9Y)</p>
-<p align="left">Solutions Presentation. Tinkoff Bot - Digital Breakthrough, June 2024 (https://clck.ru/3BouM5)</p>
+<p align="left">Solutions Presentation. Bank Bot - Digital Breakthrough, June 2024 (https://clck.ru/3BouM5)</p>
 
 ###
 
